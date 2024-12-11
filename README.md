@@ -19,7 +19,7 @@ A tool designed to recommend the most efficient AWS EC2 instance types based on 
 Contributions are welcome! Feel free to submit a pull request or raise an issue for discussion.
 
 ## License
-This project is licensed under the Apache 2.0.
+This project is licensed under Apache 2.0.
 
 ## Acknowledgments
 - Inspired by sustainable development goals to create eco-friendly computing solutions.
